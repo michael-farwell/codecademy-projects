@@ -1,0 +1,9 @@
+{
+  "name": "mixed-messages",
+  "version": "1.0.0",
+  "description": "A javascript fortune cookie",
+  "main": "index.js",
+  "type": "module",
+  "author": "Michael Farwell",
+  "license": "ISC"
+}

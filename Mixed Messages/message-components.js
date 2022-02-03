@@ -1,0 +1,23 @@
+export const MESSAGES = [
+  "See the light at the end of the tunnel.",
+  "If you have something good in your life, don't let it go!",
+  "Your worst enemy has a crush on you!",
+  "Do not upset the penguin today.",
+  "A good time to finish up old tasks.",
+  "Many folks are about as happy as they make up their minds to be.",
+  "Go confidently in the direction of your dreams.",
+  "Don't 'face' reality, let it be the place from which you leap.",
+  "People who are late are often happier than those who have to wait for them.",
+  "A human being is a deciding being.",
+  "Accept your past without regrets. Handle your present with confidence. Face your future without fear.",
+  "The phrase is follow your dreams. Not dream period.",
+  "The cooler you think you are the dumber you look.",
+  "You will conquer obstacles to achieve success.",
+  "Those who bring sunshine to the lives of others cannot keep it from themselves.",
+  "Patience is a virtue, unless its against a brick wall.",
+  "You are never selfish with your advice or your help.",
+  "Your ability for accomplishment will follow with success.",
+  "Sing and rejoice, fortune is smiling on you.",
+  "Your pain is the breaking of the shell that encloses your understanding.",
+];
+
